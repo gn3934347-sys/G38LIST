@@ -1,0 +1,224 @@
+.changa-one-regular {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.changa-one-regular-italic {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.container-horizontal {
+  display: flex;     
+  flex-wrap: nowrap;    
+  gap: 15px;        
+  
+  width: 100%;     
+  padding: 10px;
+  overflow-x: auto;     
+  overflow-y: hidden;  
+}
+
+.img1{
+  whidth: 250px;
+  height: 250px;
+}
+
+.dezoito{
+  height: 30px;
+  whidth: 30px;
+}
+.aviso{
+  display: flex;
+  justify-content: center;
+   align-items: center;
+}
+.icon{
+  whidth: 30px;
+  heigth: 100px;
+}
+body{
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+}
+
+.faq{
+  display: block;
+  justify-items: center;
+  gap: 10px;
+}
+h4{
+  color: white;
+  font-size: 10px;
+   font-family: "Changa One", sans-serif;
+}
+h1{
+  background-color: orange;
+  color: rgba(230 ,0 ,0);
+  font-size: 20px;
+  font-family: Changa One;
+  border-radius: 10px;
+}
+.logobar{
+  background: rgba(30 ,30 ,30);
+  display: flex;
+  justify-content: end;
+  position: sticky;
+  top: 0px;
+  z-index: 1000p;
+  margin: 1%;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.app{
+  height: 50px;
+  display: flex;
+  
+}
+.logoin{
+  background-color: white;
+  display: flex;
+}
+.banner{
+  display: flex;
+  height: 25%;
+  width: 25%;
+  padding: 0px;
+}
+.back{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 1px;
+  background-image: linear-gradient(25deg , red, darkorange, orange );
+  border-radius: 10px;
+}
+h4{
+  color: white;
+  font-family: defaut;
+}
+.logo{
+  display: flex;
+  border-radius: 20px;
+  max-height: 100%;
+  height: 30px;
+  }
+h2{
+  display: flex;
+   justify-content: center;
+  color: white;
+  font-size: 30%;
+  font-family: Changa One;
+}
+.aviso{
+  color: white;
+  font-size: 10px;
+  font-family: Changa One;
+}
+h3{
+  display: flex;
+   justify-content: center;
+  color: white;
+  font-size: 20%;
+  background-color: nul;
+  padding: 30px;
+  font-family: Changa One;
+}
+.info{
+  background-color: null;
+  font-size: 60px;
+}
+
+.lista{
+  color: black;
+  font-size: 90%;
+  font-family: Changa One;
+}
+.toro{
+  width: 15%;
+  height: 15%;
+  align-items: start;
+}
+.container{
+  display: flex;
+   margin: 3%;
+  background-color: darkorange;
+  border-radius: 10px;
+  padding: 2%;
+  box-shadow: 5px -5px rgba(255, 100, 0);
+  justify-content: center;
+}
+a{
+  background: rgba(30, 30, 30);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 80%;
+  text-decoration: none
+}
+.comunica{
+  background-color: white;
+  justify-content: space-evenly;
+  align-content: center;
+  display: flex;
+  margin: 0px;
+  padding: 0px
+}
+.comi{
+  font-size: 0px;
+  height: 10%
+  
+}
+*{
+  box-sizing: border-box;
+}
+.sicon{
+  height: 10%;
+  max-width: 10%;
+}
+.divulgue{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(60 ,60 ,60);
+  gap: 5px;
+  border-left: solid 10px black;
+  border-right: solid 10px black;
+  padding: 1px;
+  border-radius: 20px;
+}
+.anuncio{
+  width: 10%;
+  heigth: 10%;
+}
+h5{
+  color: black;
+  font-family: Changa One;
+}
+.fundocon{
+    background: rgba(30 ,30 ,30);
+  margin: 3%;
+  padding: 1%;
+  border-radius: 20px;
+  justify-content: center;
+}
+p{
+  color: black;
+  font-size: 27%;
+  display: flex;
+  align-items: center;
+}
+.icons{
+  width: 15%;
+  height: 15%;
+}
+.developed{
+  color: white;
+  justify-content: center;
+}
